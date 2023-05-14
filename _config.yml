@@ -1,3 +1,23 @@
 title: Test Title idk
 
 remote_theme: abhinavs/moonwalk
+
+# copied from https://github.com/abhinavs/moonwalk/blob/gh-pages/_config.yml
+theme_config:
+  appearance: "dark"
+  back_home_text: "Go Back"
+  appearance_toggle: true
+  date_format: "%Y-%m-%d"
+  show_description: false
+  show_navbar: true
+  show_footer: true # show footer links in home page, add in _data/home.yml
+  show_copyright: true
+  # following keys are using to create home layout
+  show_projects: false # show projects as cards, add in _data/home.yml
+  show_blog: true # show blog posts added in _posts
+  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+  show_reading_time: true # show number of words and reading time in the blog posts
+  show_tags: true # show tags in a blog posts
+  # options for "home" page
+  home:
+    title_blog: Blog
