@@ -7,7 +7,7 @@ remote_theme: abhinavs/moonwalk
 # copied from https://github.com/abhinavs/moonwalk/blob/gh-pages/_config.yml
 theme_config:
   appearance: "dark"
-  back_home_text: "Go Back"
+  back_home_text: "Home"
   appearance_toggle: true
   date_format: "%Y-%m-%d"
   show_description: false
