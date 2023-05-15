@@ -1,0 +1,15 @@
+# template at https://github.com/abhinavs/moonwalk/blob/gh-pages/_data/home.yml
+
+navbar_entries:
+  - title: About
+    url: about
+
+  - title: Blog
+    url: blog
+
+footer_entries:
+  - title: Website
+    url: https://sky9.dev
+
+  - title: GitHub
+    url: https://github.com/Sky9x
